@@ -1,6 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19728050.svg)](https://doi.org/10.5281/zenodo.19728050)
-[![bioRxiv](https://img.shields.io/badge/bioRxiv-2026.720342-blue)](https://biorxiv.org)
-![Validation](https://img.shields.io/badge/Validation-9%2F9%20PASS-brightgreen)
 # AXARA BioScience — Data Products
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19728050.svg)](https://doi.org/10.5281/zenodo.19728050)
