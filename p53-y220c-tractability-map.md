@@ -12,13 +12,6 @@ The full report, scored CSV, annotated PDB, Digital Twin JSON, Validation Certif
 
 Read the full newsletter below. The report is at axara.bio/data-products.
 
----
-
-# LINKEDIN NEWSLETTER ARTICLE
-# Title: We Built the p53 Y220C Probe Design Map. Here Is What We Found.
-# ═══════════════════════════════════════════════════════════════════
-
-
 ## We Built the p53 Y220C Probe Design Map. Here Is What We Found.
 
 *By AXARA BioScience | April 2026*
