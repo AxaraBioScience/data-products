@@ -4,7 +4,7 @@
 
 [![Validation](https://img.shields.io/badge/validation-6%2F6%20PASS-brightgreen)](https://axara.bio/data-products)
 [![Engine](https://img.shields.io/badge/engine-AXARA%20v3.0-blue)](https://axara.bio)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.PENDING.svg)](https://doi.org/10.5281/zenodo.PENDING)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10.5281/zenodo.19794917.svg)](https://doi.org/10.5281/zenodo.PENDING)
 
 ---
 
