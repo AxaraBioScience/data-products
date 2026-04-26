@@ -1,8 +1,3 @@
-# LINKEDIN PUBLISH POST
-# (This is the short text that appears above the newsletter link in the feed)
-# Character limit: ~3,000 but optimal engagement is 150-300 words
-# ═══════════════════════════════════════════════════════════════════
-
 We just published the AXARA p53 Y220C Covalent Tractability Map.
 
 Four clinical programs are running on the same pocket. An NDA is filing in Q1 2027. Every lab that read the NEJM Phase 1 paper in February is now starting a p53 Y220C photoaffinity programme.
